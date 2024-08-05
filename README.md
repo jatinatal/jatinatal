@@ -2,8 +2,6 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me linkedIn
-- 😄 Pronouns: Ram
 
 <!---
 jatinatal/jatinatal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
